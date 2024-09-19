@@ -1,0 +1,39 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int create_zero(int n){
+	int ans = 0;
+	for (int i = 0; i < 32; i++){
+		if (i != n
+	}
+}
+
+int main(void){
+	int n, cnt = 0;
+	int zero = 0xFFFE
+	scanf("%d", &n);
+	int a[50000];
+	for (int i = 0; i < 50000; i++) a[i] = 0;
+	for (int i = 0; i < n; i++){
+		int x;
+		scanf("%d", &x);
+		int ind = x/32;
+		int ind_plus = x % 32;
+		if (a[ind] && (1 << (32 - ind_plus)){
+			a[ind] = a[ind] && (zero << (32 - ind_plus))
+		}
+	}
+	/*p = calloc(MAX_N, sizeof(long long int));
+	for (long long i = 0; i < n; i++){
+		long long x;
+		scanf("%lld", &x);
+		*(p+x) += 1;
+	}
+	for (long long i = 0; i < MAX_N; i++){
+		if (*(p+i) == 1){
+			printf("%lld ", i);
+		}
+
+	}*/
+	return 0;
+}
