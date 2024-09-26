@@ -1,0 +1,37 @@
+Журнал курса:  https://moodle.cs.msu.ru/course/view.php?id=133
+
+Записи лекций:
+
+ 1.1. https://cloud.mail.ru/public/JnxC/9mFdMDpBT
+ 1.2. https://cloud.mail.ru/public/fW7w/DnUM2jP8W
+ 2.1. https://cloud.mail.ru/public/WJK6/1aJZkScFH
+ 2.2. https://cloud.mail.ru/public/ojFT/rwAab7EG5
+ 3.1. https://cloud.mail.ru/public/1CDD/8sQq8PrgC
+ 3.2. https://cloud.mail.ru/public/vuWG/9AAYRPvUD
+ 4.1. https://cloud.mail.ru/public/TFrt/JN9VShaGg
+ 4.2. https://cloud.mail.ru/public/pyHA/t811UoY6y
+ 5.1. https://cloud.mail.ru/public/9jK8/rgZ7ULfSo
+ 5.2. https://cloud.mail.ru/public/mnjW/Mi5zQQ4fJ
+ 6.1. https://cloud.mail.ru/public/pxhc/QhRdX8dqv
+ 6.2. https://cloud.mail.ru/public/icZt/eckp7JpuG
+ 7.1. https://cloud.mail.ru/public/Hf6o/x49HyhJeY
+ 7.2. https://cloud.mail.ru/public/JZ5u/wx4cJY1iJ
+ 8.1. https://cloud.mail.ru/public/Pv69/yRQ8L7WRJ
+ 8.2. https://cloud.mail.ru/public/5PTx/8weVbYJ5Z
+ 9.1. https://cloud.mail.ru/public/3MWe/wWrd7j7DX
+ 9.2. https://cloud.mail.ru/public/zxiE/TjSnxUwY5
+10.1. https://cloud.mail.ru/public/FaCh/KUMGQBzEV
+10.2. https://cloud.mail.ru/public/1ew3/X3sEE243w
+11.1. https://cloud.mail.ru/public/GgGh/4rpkU5bC4
+11.2. https://cloud.mail.ru/public/mmyw/TCD4nrh3z
+
+Проверочные тематические тесты:
+
+0. https://onlinetestpad.com/wv2np74egivkk. Операционные системы
+
+1. https://onlinetestpad.com/be3w3wdnuegcy. Конструкторы и деструкторы
+2. https://onlinetestpad.com/yzy4khxrj5wgu. Пространства имён
+3. https://onlinetestpad.com/6m4iif5z76kb4. Перегрузка
+4. https://onlinetestpad.com/d2dnywes3fao6. Виртуальные функции
+5. https://onlinetestpad.com/vscxxm2v3qgsy. Исключения
+6. https://onlinetestpad.com/ksrvu4ay36apa. Формальные грамматики и языки

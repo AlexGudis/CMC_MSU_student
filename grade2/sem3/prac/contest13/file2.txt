@@ -1,0 +1,10 @@
+It was already here before output
+
+      9      11      47
+Gonna run cmd3
+Gonna run cmd3
+Gonna run cmd3
+
+     18      20     114
+     18      20     114
+     18      20     114

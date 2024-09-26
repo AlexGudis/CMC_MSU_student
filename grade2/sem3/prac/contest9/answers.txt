@@ -1,0 +1,19 @@
+Ans1:
+97
+6
+7
+
+Ans2:
+Дописываем в функцию parse_number на 149 строку: item->type = cJSON_Number;
+
+Ans3:
+Дописываем в функцию cJSON_ReplaceItemInArray на 918 строку проверку:
+else if (newitem->prev)
+Это вместо обычного else, который там был ранее
+
+Ans4:
+446817011
+
+Ans5:
+0
+
